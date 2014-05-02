@@ -1,4 +1,4 @@
-git-testing
+Get Started
 ===========
 
-General git and gitHub testing
+
